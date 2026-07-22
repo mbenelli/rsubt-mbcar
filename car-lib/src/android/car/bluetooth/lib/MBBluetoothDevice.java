@@ -1,7 +1,6 @@
 /**
- * Copyright 2023 Mercedes-Benz Group China Ltd.
- * All Rights Reserved.
- * NOTICE:  All information contained herein is, and remains the property of Mercedes-Benz Group.
+ * SPDX-License-Identifier: MIT
+ * Copyright 2024 Mercedes-Benz Group China Ltd.
  */
 
 package android.car.bluetooth.lib;

@@ -1,3 +1,8 @@
+/**
+ * SPDX-License-Identifier: MIT
+ * Copyright 2024 Mercedes-Benz Group China Ltd.
+ */
+
 package android.car.hardware.power;
 
 import android.annotation.CallbackExecutor;
